@@ -4,7 +4,7 @@
 
 ![tool](https://img.shields.io/badge/tool-n8n-blue)
 ![api](https://img.shields.io/badge/API-OpenAI-black)
-![api](https://img.shields.io/badge/API-Google%20Sheets-brightgreen
+![api](https://img.shields.io/badge/API-Google%20Sheets-brightgreen)
 ![api](https://img.shields.io/badge/API-Gmail-red)
 ![language](https://img.shields.io/badge/language-JavaScript-yellow)
 ![platform](https://img.shields.io/badge/platform-GitHub-lightgrey)
@@ -176,7 +176,7 @@ Em linhas gerais, utilizarei as seguintes ferramentas nos projetos:
 
 - ![tool](https://img.shields.io/badge/tool-n8n-blue) → Plataforma de automação;
 - ![api](https://img.shields.io/badge/API-OpenAI-black) → Realização de consultas, formatação e transformação de dados;
-- ![api](https://img.shields.io/badge/API-Google%20Sheets-brightgreen → Criação e manutenção das planilhas essenciais à maioria das automações;
+- ![api](https://img.shields.io/badge/API-Google%20Sheets-brightgreen) → Criação e manutenção das planilhas essenciais à maioria das automações;
 - ![Google Drive](https://img.shields.io/badge/Google%20Drive-Storage-yellowgreen?logo=googledrive&logoColor=white) → Criação e manutenção de arquivos na nuvem (cloud) para utilização nas automações;
 - ![api](https://img.shields.io/badge/API-Gmail-red) → Envio e recebimento de e-mails;
 - ![platform](https://img.shields.io/badge/platform-GitHub-lightgrey) → Documentação e versionamento.
