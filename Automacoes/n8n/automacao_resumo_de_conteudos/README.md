@@ -1,7 +1,17 @@
-
 # Automação com n8n: resumo de conteúdos da internet
 
---------------
+---
+
+![tool](https://img.shields.io/badge/tool-n8n-blue)
+![api](https://img.shields.io/badge/API-OpenAI-black)
+![api](https://img.shields.io/badge/API-Google%20Sheets-brightgreen
+![api](https://img.shields.io/badge/API-Gmail-red)
+![language](https://img.shields.io/badge/language-JavaScript-yellow)
+![platform](https://img.shields.io/badge/platform-GitHub-lightgrey)
+
+## ⚙ Do breve resumo deste projeto:
+
+Este fluxo automatiza a coleta e resumo de tendências do mercado de barbearias, enviando os insights diretamente por e-mail. Ele economiza até 90% do tempo de leitura manual de artigos.
 
 ## 📚 Da descrição deste projeto:
 
@@ -11,11 +21,12 @@ Dessa forma, revela-se imprescindível a tomada de decisões mediante a análise
 
 Por muitas vezes, esse processo de buscar determinadas informações pode ser demorado e complicado, principalmente se considerarmos que as informações estão dispersas na internet.
 
-Assim sendo, criei uma automação com a plataforma n8n para resumir conteúdos úteis à uma companhia. Desta vez, o negócio escolhido foi uma barbearia: o objetivo aqui é trazer quais são as tendências de cortes masculinos para 2025. 
+Assim sendo, criei uma automação com a plataforma n8n para resumir conteúdos úteis à uma companhia. Desta vez, o negócio escolhido foi uma barbearia: o objetivo aqui é trazer quais são as tendências de cortes masculinos para 2025.
 
 Finalmente, demonstrarei o fluxo da automação, etapa por etapa - o qual pode ser consultado logo abaixo.
 
---------------
+---
+
 ## 🔎 Das etapas da automação:
 
 1. A primeira etapa, neste caso, é entrar no [site do n8n](https://n8n.io/) e criar uma conta:
@@ -46,7 +57,7 @@ Daí, podemos explorar uma infinidade de softwares e ferramentas compatíveis co
 
 No nosso caso, o arquivo terá essa estrutura:
 
-![sheets](imagens/sheets)
+![sheets](imagens/sheets.png)
 
 Como se vê, teremos três colunas no total: a) a primeira, chamada "Link do Artigo", b) a segunda, chamada "E-mail" e, c) a terceira, chamada "Status". Ou seja: teremos os links que queremos acessar, o e-mail para qual esse link deverá ser enviado e o status de envio.
 
@@ -94,7 +105,7 @@ Uma vez mais, fechamos a janela e clicamos em "+". Elegemos a opção "Open AI" 
 
 Primeiramente, devemos escolher a versão do ChatGPT a ser utilizada. Para essa análise, escolhemos a GPT-4O-MINI, a qual apresenta bom desempenho nas nossas buscas.
 
-Já no prompt, devemos inserir o seguinte código: 
+Já no prompt, devemos inserir o seguinte código:
 
 **Resuma o seguinte texto em 5 tópicos claros e objetivos, mantendo o conteúdo em Português Brasileiro: {{ $json.textocompleto }}**
 
@@ -142,11 +153,11 @@ O resultado final do fluxo no n8n deve ser esse:
 
 Aqui, acabamos o nosso projeto, com a certeza de que os barbeiros ficarão muito felizes em saber quais são as tendências de cortes masculinos para 2025!
 
-## 📊 Resultados e Insights  
+## 📊 Resultados e Insights
 
-A automação permitiu:  
+A automação permitiu:
 
-- Identificar quais são os websites disponíveis para a extração de conteúdo; 
+- Identificar quais são os websites disponíveis para a extração de conteúdo;
 - Possibilitar o resumo dos conteúdos e o envio automático de e-mail para o(s) interessado(s);
 - A economia de até 90% no tempo despendido para a leitura e resumo das matérias, se considerarmos o processo de curadoraria, leitura, compreensão e resumo dos textos. Supondo que esse processo antes levava 40 minutos diários, com a automação, temos o mesmo processo - realizado em até 2 minutos;
 - O alívio de tempo para estudar e verificar as matérias, o que pode permitir - por exemplo - a marcação de horário para mais um cliente na barbearia.
@@ -157,25 +168,25 @@ A automação permitiu:
 2. Acesse o [site do n8n](https://n8n.io/) e crie uma conta. Preenchidos os dados de cadastro e confirmado o e-mail de utilização, acessar o workflow e seguir os passos descritos no tópico acima;
 3. Compare os resultados obtidos.
 
---------------
+---
 
 ## 🛠 Das ferramentas utilizadas
 
 Em linhas gerais, utilizarei as seguintes ferramentas nos projetos:
 
-- n8n → Plataforma de automação;
-- ChatGPT (OpenAI) → Realização de consultas, formatação e transformação de dados;
-- Google Sheets → Criação e manutenção das planilhas essenciais à maioria das automações;
-- Google Drive →  Criação e manutenção de arquivos na nuvem (cloud) para utilização nas automações;
-- Google Gmail → Envio e recebimento de e-mails;
-- Markdown / GitHub → Documentação e versionamento.
+- ![tool](https://img.shields.io/badge/tool-n8n-blue) → Plataforma de automação;
+- ![api](https://img.shields.io/badge/API-OpenAI-black) → Realização de consultas, formatação e transformação de dados;
+- ![api](https://img.shields.io/badge/API-Google%20Sheets-brightgreen → Criação e manutenção das planilhas essenciais à maioria das automações;
+- ![Google Drive](https://img.shields.io/badge/Google%20Drive-Storage-yellowgreen?logo=googledrive&logoColor=white) → Criação e manutenção de arquivos na nuvem (cloud) para utilização nas automações;
+- ![api](https://img.shields.io/badge/API-Gmail-red) → Envio e recebimento de e-mails;
+- ![platform](https://img.shields.io/badge/platform-GitHub-lightgrey) → Documentação e versionamento.
 
---------------
+---
 
 ## 💻 Autor / Contato
 
 Posso ser encontrado nestes endereços:
 
-[@ricardo-otero12](https://github.com/ricardo-otero12)
+Esse é o meu GitHub: ![platform](https://img.shields.io/badge/platform-GitHub-lightgrey)
 
 Procure-me no LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardogarcia56/)
