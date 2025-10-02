@@ -153,7 +153,7 @@ O resultado final do fluxo no n8n deve ser esse:
 
 Aqui, acabamos o nosso projeto, com a certeza de que os barbeiros ficarão muito felizes em saber quais são as tendências de cortes masculinos para 2025!
 
-## 📊 Resultados e Insights
+## 📊 Resultados e Insights:
 
 A automação permitiu:
 
@@ -162,7 +162,11 @@ A automação permitiu:
 - A economia de até 90% no tempo despendido para a leitura e resumo das matérias, se considerarmos o processo de curadoraria, leitura, compreensão e resumo dos textos. Supondo que esse processo antes levava 40 minutos diários, com a automação, temos o mesmo processo - realizado em até 2 minutos;
 - O alívio de tempo para estudar e verificar as matérias, o que pode permitir - por exemplo - a marcação de horário para mais um cliente na barbearia.
 
-## 🚀 Como executar
+## 🔔 Extensões e possibilidades de utilização desse projeto:
+
+Embora o contexto abordado seja o de pesquisar as tendências de cortes de cabelo para uma barbearia, esse fluxo pode ser adaptado para outras áreas - como, por exemplo: analisar concorrentes, extrair informações sobre a cotação de moedas e criptomoedas (no caso de corretoras), buscar informações sobre as tendências de mercado, a depender do ramo de negócio da companhia, dentre outos exemplos.
+
+## 🚀 Como executar:
 
 1. Clone este repositório;
 2. Acesse o [site do n8n](https://n8n.io/) e crie uma conta. Preenchidos os dados de cadastro e confirmado o e-mail de utilização, acessar o workflow e seguir os passos descritos no tópico acima;
@@ -170,7 +174,7 @@ A automação permitiu:
 
 ---
 
-## 🛠 Das ferramentas utilizadas
+## 🛠 Das ferramentas utilizadas:
 
 Em linhas gerais, utilizarei as seguintes ferramentas nos projetos:
 
