@@ -31,8 +31,6 @@ Em linhas gerais, utilizarei as seguintes ferramentas nos projetos:
 
 ## 💻 Autor / Contato
 
-Posso ser encontrado nestes endereços:
-
-[@ricardo-otero12](https://github.com/ricardo-otero12)
+Posso ser encontrado neste endereço:
 
 Procure-me no LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardogarcia56/)
