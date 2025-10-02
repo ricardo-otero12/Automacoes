@@ -1,9 +1,8 @@
-
 # Automações com n8n
 
---------------
+---
 
-## 📖 Da descrição do repositório
+## 📖 Da descrição do repositório:
 
 Esse repositório tem como objetivo reunir as minhas automações, feitas com a plataforma de automação de fluxo n8n.
 
@@ -13,24 +12,19 @@ A título de exemplo, as automações variarão desde a classificação de e-mai
 
 Finalmente, o objetivo é explicitar o ganho de produtividade proporcionado pela n8n com exemplos práticos do dia a dia!
 
---------------
+---
 
-## 🛠 Das ferramentas utilizadas
+## 🛠 Das ferramentas utilizadas:
 
-- n8n → Plataforma de automação;
-- ChatGPT (OpenAI) → Realização de consultas, formatação e transformação de dados;
-- Microsoft Outlook → Envio e recebimento de e-mails;
-- Slack → Envio e recebimento de mensagens via chat (software corporativo);
-- Microsoft Teams →  Envio e recebimento de mensagens via chat (software corporativo);
-- Google Sheets → Criação e manutenção das planilhas essenciais à maioria das automações;
-- Google Drive →  Criação e manutenção de arquivos na nuvem (cloud) para utilização nas automações;
-- Google Gmail → Envio e recebimento de e-mails;
-- Markdown / GitHub → Documentação e versionamento.
+![tool](https://img.shields.io/badge/tool-n8n-blue)
+![api](https://img.shields.io/badge/API-OpenAI-black)
+![api](https://img.shields.io/badge/API-Google%20Sheets-brightgreen)
+![api](https://img.shields.io/badge/API-Gmail-red)
+![language](https://img.shields.io/badge/language-JavaScript-yellow)
+![platform](https://img.shields.io/badge/platform-GitHub-lightgrey)
 
---------------
+---
 
 ## 💻 Autor / Contato
-
-[@ricardo-otero12](https://github.com/ricardo-otero12)
 
 Procure-me no LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardogarcia56/)
