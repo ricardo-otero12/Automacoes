@@ -15,7 +15,7 @@ Este fluxo automatiza a coleta de informações de dados de profissionais do seg
 
 Por muitas vezes, é extremamente complicado obter bases de dados íntegras e confiáveis para apoiar as decisões de negócio. Em se tratando da área de marketing, essa questão pode ser ainda mais complicada: onde obter uma relação de profissionais para entrarmos em contato? E mais: como fazer isso de uma maneira rápida, sem ter que procurar manualmente, um a um?
 
-Esse projeto se destina a resolver esse problema com uma automação no n8n, por meio do Webscrapping. 
+Esse projeto se destina a resolver esse problema com uma automação no n8n, por meio do Webscrapping.
 
 Segundo definição do [Wikipedia](https://pt.wikipedia.org/wiki/Web_scraping), "[...] Webscrapping é uma forma de mineração que permite a extração de dados de sites da web, convertendo-os em informação estruturada para posterior análise. [...]"
 
@@ -34,6 +34,8 @@ Então, essa tela se abrirá:
 ![vazio](imagens/fluxo_vazio.png)
 
 A partir disso, o nosso primeiro passo é criar uma planilha a ser colocada no nosso Google Drive. Ela deve, obrigatoriamente, conter essas colunas:
+
+**Nome | Endereço | Telefone | Site | Localização no mapa | Nota no Google**
 
 ![campos](imagens/camposexcel.png)
 
@@ -95,6 +97,8 @@ Aberta a tela, devemos escolher o arquivo em que usaremos como base, bem como a 
 
 O resultado final será, então, a inclusão das informações das quinze pizzarias no arquivo N8N escolhido - as quais seguirão esse padrão:
 
+**Nome | Endereço | Telefone | Site | Localização no mapa | Nota no Google**
+
 ![campos](imagens/camposexcel.png)
 
 Finalmente, agora temos quinze potenciais clientes para oferecer os nossos produtos e serviços!
@@ -134,4 +138,3 @@ Em linhas gerais, utilizarei as seguintes ferramentas nos projetos:
 ## 💻 Autor / Contato
 
 Procure-me no LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardogarcia56/)
-
