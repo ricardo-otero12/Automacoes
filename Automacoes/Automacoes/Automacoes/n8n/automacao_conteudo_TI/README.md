@@ -149,6 +149,10 @@ Esses passos são suficientes para executar a nossa automação: com um clique e
 
 Em poucas palavras, a automação percorre a planilha verificando os temas propostas, gerando os conteúdos e atualizando o status de "Pendente" para "Feito". As possibilidades são diversas e trazem inúmeras sugestões relevantes de conteúdos para a área de Tecnologia da Informação!
 
+Esse será o nosso resultado final:
+
+![workflow](imagens/workflow_final.png)
+
 ## 📊 Resultados e Insights:
 
 A automação permitiu:
