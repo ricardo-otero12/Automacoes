@@ -1,7 +1,5 @@
 # Automação com n8n: resumo de conteúdos da internet
 
----
-
 ![tool](https://img.shields.io/badge/tool-n8n-blue)
 ![api](https://img.shields.io/badge/API-OpenAI-black)
 ![api](https://img.shields.io/badge/API-Google%20Sheets-brightgreen)
