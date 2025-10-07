@@ -1,7 +1,5 @@
 # Automações com n8n e Make
 
----
-
 ## 📖 Da descrição geral deste repositório:
 
 Esse repositório tem como objetivo reunir as minhas automações, feitas com os softwares n8n e Make.
