@@ -101,6 +101,10 @@ O resultado final será, então, a inclusão das informações das quinze pizzar
 
 Finalmente, agora temos quinze potenciais clientes para oferecer os nossos produtos e serviços!
 
+O workflow final do nosso projeto deve ficar assim:
+
+![workflow](imagens/workflow_final.png)
+
 ## 📊 Resultados e Insights:
 
 A automação permitiu:
