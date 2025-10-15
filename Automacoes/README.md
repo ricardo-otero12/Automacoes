@@ -1,10 +1,10 @@
-# Automações com n8n e Make
+# Automações com n8n 
 
 ## 📖 Da descrição geral deste repositório:
 
-Esse repositório tem como objetivo reunir as minhas automações, feitas com os softwares n8n e Make.
+Esse repositório tem como objetivo reunir as minhas automações, feitas com o software n8n.
 
-Em linhas gerais, esses softwares integram múltiplos aplicativos e agentes de inteligência artificial objetivando maximizar a produtividade nas demandas do dia a dia, automatizando tarefas que podem livrar o tempo dos gestores e analistas - trazendo novas possibilidades no cenário corporativo.
+Em linhas gerais, esse software integra múltiplos aplicativos e agentes de inteligência artificial objetivando maximizar a produtividade nas demandas do dia a dia, automatizando tarefas que podem livrar o tempo dos gestores e analistas - trazendo novas possibilidades no cenário corporativo.
 
 ---
 
